@@ -140,3 +140,8 @@ Potential future expansions include:
 # Author
 
 Venkatesh Mishra
+
+
+# Documentation
+
+Detailed project report available in the repository documentation.
